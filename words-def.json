@@ -1,0 +1,502 @@
+{
+  "1": {
+    "id": 1,
+    "word": "Adorable",
+    "meaning": "Inspiring great affection; delightful; charming."
+  },
+  "2": {
+    "id": 2,
+    "word": "Beautiful",
+    "meaning": "Having qualities that delight the senses or mind; pleasing to the eye or spirit."
+  },
+  "3": {
+    "id": 3,
+    "word": "Beloved",
+    "meaning": "Deeply loved and cherished."
+  },
+  "4": {
+    "id": 4,
+    "word": "Charming",
+    "meaning": "Delightfully attractive or pleasing."
+  },
+  "5": {
+    "id": 5,
+    "word": "Darling",
+    "meaning": "A person very dear to one; loved or cherished."
+  },
+  "6": {
+    "id": 6,
+    "word": "Enchanting",
+    "meaning": "Delighting greatly; captivating or charming."
+  },
+  "7": {
+    "id": 7,
+    "word": "Gorgeous",
+    "meaning": "Dazzlingly beautiful or magnificent."
+  },
+  "8": {
+    "id": 8,
+    "word": "Honey",
+    "meaning": "A term of endearment for a loved one."
+  },
+  "9": {
+    "id": 9,
+    "word": "Inamorata",
+    "meaning": "A person with whom one is in love or has an intimate relationship."
+  },
+  "10": {
+    "id": 10,
+    "word": "Jewel",
+    "meaning": "A person regarded as a precious gem; someone treasured."
+  },
+  "11": {
+    "id": 11,
+    "word": "Kissable",
+    "meaning": "Desirable or inviting kisses; having lips that are pleasant to kiss."
+  },
+  "12": {
+    "id": 12,
+    "word": "Lovable",
+    "meaning": "Capable of being loved; very appealing or attractive."
+  },
+  "13": {
+    "id": 13,
+    "word": "Magical",
+    "meaning": "Possessing or exhibiting extraordinary qualities; enchanting or bewitching."
+  },
+  "14": {
+    "id": 14,
+    "word": "Nurturing",
+    "meaning": "Providing care, support, or affection; promoting growth and development."
+  },
+  "15": {
+    "id": 15,
+    "word": "Obsession",
+    "meaning": "An intense and often irrational preoccupation with someone; a strong attachment or infatuation."
+  },
+  "16": {
+    "id": 16,
+    "word": "Passionate",
+    "meaning": "Having or expressing strong emotions, especially love or desire."
+  },
+  "17": {
+    "id": 17,
+    "word": "Quintessential",
+    "meaning": "Representing the most perfect or typical example of something; the pure essence."
+  },
+  "18": {
+    "id": 18,
+    "word": "Romantic",
+    "meaning": "Characterized by a love of beauty, passion, and imagination; conducive to or suitable for romance."
+  },
+  "19": {
+    "id": 19,
+    "word": "Soulmate",
+    "meaning": "A person ideally suited for another as a close friend or romantic partner; a deep connection."
+  },
+  "20": {
+    "id": 20,
+    "word": "Tender",
+    "meaning": "Showing gentleness, kindness, and affection; easily damaged or hurt."
+  },
+  "21": {
+    "id": 21,
+    "word": "Unforgettable",
+    "meaning": "Impossible or difficult to forget; memorable."
+  },
+  "22": {
+    "id": 22,
+    "word": "Valentine",
+    "meaning": "A person, typically a romantic partner, to whom one gives heartfelt greetings or gifts on Valentine's Day."
+  },
+  "23": {
+    "id": 23,
+    "word": "Whisper",
+    "meaning": "To speak softly and quietly, especially in a gentle, loving, or secretive manner."
+  },
+  "24": {
+    "id": 24,
+    "word": "Yearning",
+    "meaning": "A deep longing or desire, especially for something or someone unattainable."
+  },
+  "25": {
+    "id": 25,
+    "word": "Zeal",
+    "meaning": "Great enthusiasm or passion; fervor."
+  },
+  "26": {
+    "id": 26,
+    "word": "Amorous",
+    "meaning": "Showing, feeling, or relating to sexual desire or passionate love."
+  },
+  "27": {
+    "id": 27,
+    "word": "Blissful",
+    "meaning": "Extremely happy or joyful; full of bliss."
+  },
+  "28": {
+    "id": 28,
+    "word": "Cuddle",
+    "meaning": "To hold close in one's arms, especially as a way of showing affection or providing comfort."
+  },
+  "29": {
+    "id": 29,
+    "word": "Devotion",
+    "meaning": "Loyalty, commitment, or dedication to someone or something."
+  },
+  "30": {
+    "id": 30,
+    "word": "Eternity",
+    "meaning": "Infinite or unending time; a state of timelessness."
+  },
+  "31": {
+    "id": 31,
+    "word": "Fascination",
+    "meaning": "A strong attraction or interest; captivation."
+  },
+  "32": {
+    "id": 32,
+    "word": "Gentle",
+    "meaning": "Having or showing a mild, kind, or tender temperament or character."
+  },
+  "33": {
+    "id": 33,
+    "word": "Heartthrob",
+    "meaning": "A person who is considered very attractive and causes one's heart to beat faster with admiration or desire."
+  },
+  "34": {
+    "id": 34,
+    "word": "Infatuation",
+    "meaning": "An intense but short-lived passion or admiration for someone."
+  },
+  "35": {
+    "id": 35,
+    "word": "Jubilant",
+    "meaning": "Feeling or expressing great joy or happiness; exultant."
+  },
+  "36": {
+    "id": 36,
+    "word": "Kindred",
+    "meaning": "Similar in kind; related; having a similar nature or character."
+  },
+  "37": {
+    "id": 37,
+    "word": "Lovelorn",
+    "meaning": "Feeling deep sadness or melancholy because of unrequited love or the absence of a loved one."
+  },
+  "38": {
+    "id": 38,
+    "word": "Melody",
+    "meaning": "A sequence of musical tones or sounds arranged in a pleasing and expressive manner."
+  },
+  "39": {
+    "id": 39,
+    "word": "Nurturing",
+    "meaning": "Providing care, support, or affection; promoting growth and development."
+  },
+  "40": {
+    "id": 40,
+    "word": "Overwhelmed",
+    "meaning": "Feeling completely overcome or deeply affected by intense emotion."
+  },
+  "41": {
+    "id": 41,
+    "word": "Passion",
+    "meaning": "An intense and overwhelming feeling of love, desire, or enthusiasm."
+  },
+  "42": {
+    "id": 42,
+    "word": "Quixotic",
+    "meaning": "Idealistic to a foolish or impractical degree; extravagantly chivalrous or romantic."
+  },
+  "43": {
+    "id": 43,
+    "word": "Ravishing",
+    "meaning": "Delightful or entrancing in appearance; stunningly beautiful or attractive."
+  },
+  "44": {
+    "id": 44,
+    "word": "Serendipity",
+    "meaning": "The occurrence of fortunate or pleasant events by chance in a happy or beneficial way."
+  },
+  "45": {
+    "id": 45,
+    "word": "Tenderness",
+    "meaning": "Gentle and loving care or affection; the quality of being tender."
+  },
+  "46": {
+    "id": 46,
+    "word": "Unconditional",
+    "meaning": "Not limited by conditions; absolute; without any limitations or exceptions."
+  },
+  "47": {
+    "id": 47,
+    "word": "Vivacious",
+    "meaning": "Attractively lively and animated; full of energy and enthusiasm."
+  },
+  "48": {
+    "id": 48,
+    "word": "Whimsical",
+    "meaning": "Playfully quaint or fanciful, especially in an appealing and amusing way."
+  },
+  "49": {
+    "id": 49,
+    "word": "Yours",
+    "meaning": "Belonging or relating to the person or people being spoken or written to; belonging to you."
+  },
+  "50": {
+    "id": 50,
+    "word": "Zest",
+    "meaning": "Great enthusiasm, energy, or excitement; a lively or keen interest in something."
+  },
+  "51": {
+    "id": 51,
+    "word": "Amity",
+    "meaning": "A friendly relationship; peaceful harmony."
+  },
+  "52": {
+    "id": 52,
+    "word": "Bliss",
+    "meaning": "Supreme happiness; utter joy or contentment."
+  },
+  "53": {
+    "id": 53,
+    "word": "Connection",
+    "meaning": "A relationship or association between people; a bond or link."
+  },
+  "54": {
+    "id": 54,
+    "word": "Dreamy",
+    "meaning": "Having a magical or unreal quality; tending to daydream or fantasize."
+  },
+  "55": {
+    "id": 55,
+    "word": "Eternal",
+    "meaning": "Lasting or existing forever; without end or beginning."
+  },
+  "56": {
+    "id": 56,
+    "word": "Fondness",
+    "meaning": "A feeling or affectionate liking or tenderness for someone or something."
+  },
+  "57": {
+    "id": 57,
+    "word": "Graceful",
+    "meaning": "Elegant, stylish, or beautiful in movement or manner; characterized by grace."
+  },
+  "58": {
+    "id": 58,
+    "word": "Heartfelt",
+    "meaning": "Sincere; deeply and strongly felt or expressed."
+  },
+  "59": {
+    "id": 59,
+    "word": "Infinite",
+    "meaning": "Boundless or limitless in space, extent, or size; without end."
+  },
+  "60": {
+    "id": 60,
+    "word": "Journey",
+    "meaning": "A long and often difficult process of personal development or self-discovery."
+  },
+  "61": {
+    "id": 61,
+    "word": "Kinship",
+    "meaning": "A close connection or relationship between people; a sense of family or affinity."
+  },
+  "62": {
+    "id": 62,
+    "word": "Luminescence",
+    "meaning": "The emission of light not caused by incandescence and occurring at a lower temperature."
+  },
+  "63": {
+    "id": 63,
+    "word": "Magnetic",
+    "meaning": "Having the power to attract or draw; fascinating or alluring."
+  },
+  "64": {
+    "id": 64,
+    "word": "Noble",
+    "meaning": "Possessing qualities of high moral character, such as courage, honor, and generosity."
+  },
+  "65": {
+    "id": 65,
+    "word": "Openhearted",
+    "meaning": "Honest, sincere, and generous in feeling or manner; willing to share one's emotions."
+  },
+  "66": {
+    "id": 66,
+    "word": "Passionately",
+    "meaning": "With intense or strong emotion; with great enthusiasm or zeal."
+  },
+  "67": {
+    "id": 67,
+    "word": "Querencia",
+    "meaning": "A place from which one's strength of character is drawn; a place of inner peace or refuge."
+  },
+  "68": {
+    "id": 68,
+    "word": "Radiant",
+    "meaning": "Sending out light; shining or glowing brightly; filled with joy, love, or happiness."
+  },
+  "69": {
+    "id": 69,
+    "word": "Serenade",
+    "meaning": "A musical composition or performance that expresses love or adoration."
+  },
+  "70": {
+    "id": 70,
+    "word": "Tenderhearted",
+    "meaning": "Having a kind, gentle, or sympathetic nature; easily moved to love or compassion."
+  },
+  "71": {
+    "id": 71,
+    "word": "Unison",
+    "meaning": "The state of being in complete agreement or harmony; acting or speaking together as one."
+  },
+  "72": {
+    "id": 72,
+    "word": "Vibrant",
+    "meaning": "Full of energy, enthusiasm, and vitality; lively or animated."
+  },
+  "73": {
+    "id": 73,
+    "word": "Wholeness",
+    "meaning": "The state of being complete or full; the quality of being unbroken or undamaged."
+  },
+  "74": {
+    "id": 74,
+    "word": "Yearning",
+    "meaning": "A deep longing or strong desire, often accompanied by sadness or melancholy."
+  },
+  "75": {
+    "id": 75,
+    "word": "Zing",
+    "meaning": "Energetic vitality or enthusiasm; a quality that makes something lively or exciting."
+  },
+  "76": {
+    "id": 76,
+    "word": "Amiable",
+    "meaning": "Having a friendly and pleasant manner; likable; good-natured."
+  },
+  "77": {
+    "id": 77,
+    "word": "Breathtaking",
+    "meaning": "So beautiful, impressive, or astonishing that it takes one's breath away."
+  },
+  "78": {
+    "id": 78,
+    "word": "Companion",
+    "meaning": "A person with whom one spends time or shares experiences, often a close friend or romantic partner."
+  },
+  "79": {
+    "id": 79,
+    "word": "Desire",
+    "meaning": "A strong feeling of wanting or longing for something or someone; a craving."
+  },
+  "80": {
+    "id": 80,
+    "word": "Enraptured",
+    "meaning": "Fascinated or delighted to an extreme degree; enraptured with love or joy."
+  },
+  "81": {
+    "id": 81,
+    "word": "Forever",
+    "meaning": "For all future time; for always; eternally."
+  },
+  "82": {
+    "id": 82,
+    "word": "Glow",
+    "meaning": "To emit a steady radiance of light or warmth; to shine brightly."
+  },
+  "83": {
+    "id": 83,
+    "word": "Harmony",
+    "meaning": "A pleasing arrangement or combination of different elements; a state of peaceful coexistence."
+  },
+  "84": {
+    "id": 84,
+    "word": "Intimate",
+    "meaning": "Closely acquainted or familiar; characterized by a close personal relationship or private atmosphere."
+  },
+  "85": {
+    "id": 85,
+    "word": "Joyful",
+    "meaning": "Full of joy or happiness; causing or expressing joy."
+  },
+  "86": {
+    "id": 86,
+    "word": "Kaleidoscope",
+    "meaning": "A complex pattern of colors and shapes that is constantly changing."
+  },
+  "87": {
+    "id": 87,
+    "word": "Luminous",
+    "meaning": "Radiating or reflecting light; shining or glowing."
+  },
+  "88": {
+    "id": 88,
+    "word": "Majestic",
+    "meaning": "Having grandeur, dignity, or beauty; impressive or awe-inspiring."
+  },
+  "89": {
+    "id": 89,
+    "word": "Nourish",
+    "meaning": "To provide with the substances necessary for growth, health, and good condition; to cherish or nurture."
+  },
+  "90": {
+    "id": 90,
+    "word": "Overflowing",
+    "meaning": "Filled or brimming with a particular quality, emotion, or abundance."
+  },
+  "91": {
+    "id": 91,
+    "word": "Passionate",
+    "meaning": "Having or showing intense feelings, emotions, or desires; ardent."
+  },
+  "92": {
+    "id": 92,
+    "word": "Quench",
+    "meaning": "To satisfy a desire or thirst by drinking, or metaphorically, to satisfy a need or craving."
+  },
+  "93": {
+    "id": 93,
+    "word": "Radiate",
+    "meaning": "To send out rays or waves of light or heat; to emit energy or a particular quality."
+  },
+  "94": {
+    "id": 94,
+    "word": "Soulful",
+    "meaning": "Expressing or showing deep feeling or emotion; full of soul or emotional depth."
+  },
+  "95": {
+    "id": 95,
+    "word": "Thrilling",
+    "meaning": "Causing a sudden feeling of excitement, pleasure, or enthusiasm; exhilarating."
+  },
+  "96": {
+    "id": 96,
+    "word": "Unity",
+    "meaning": "The state of being united or joined as a whole; oneness; harmony."
+  },
+  "97": {
+    "id": 97,
+    "word": "Vulnerable",
+    "meaning": "Open to emotional or physical harm; easily hurt or wounded."
+  },
+  "98": {
+    "id": 98,
+    "word": "Whisper",
+    "meaning": "To speak or say something softly and quietly; a hushed or gentle voice."
+  },
+  "99": {
+    "id": 99,
+    "word": "Yearn",
+    "meaning": "To have an intense longing or desire; to crave or ache for something or someone."
+  },
+  "100": {
+    "id": 100,
+    "word": "Zephyr",
+    "meaning": "A soft, gentle breeze; a light or airy quality or movement."
+  }
+}
